@@ -1,0 +1,26 @@
+.container {
+    width: 100%;
+    padding: 15px;
+    display: flex;
+}
+
+.main_column {
+    flex: 2;
+    
+    padding: 20px;
+}
+
+.main_column__section {
+    border-bottom: 1px solid lightgray;
+}
+
+.main_column__section--no-border {
+    border-bottom: none;
+}
+
+.secundary_column {
+    flex: 1;
+    border-left: 1px solid lightgray;
+    padding: 20px;
+}
+

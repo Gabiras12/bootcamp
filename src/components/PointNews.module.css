@@ -1,0 +1,17 @@
+.root {
+    font-size: 14px;
+    position: relative;
+    padding-left: 15px;
+    max-width: 270px;
+    margin-bottom: 15px;
+}
+
+.point {
+    position: absolute;
+    width: 5px;
+    height: 5px;
+    left: 5px;
+    top: 6px;
+    background: #909090;
+    border-radius: 5px;
+}
